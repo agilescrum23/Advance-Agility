@@ -26,3 +26,5 @@ Sprint planning: The development team and product owner work together to plan sp
 Daily stand-up meetings: The team holds daily stand-up meetings to share progress, identify roadblocks, and plan for the day ahead.
 Sprint review and retrospective: At the end of each sprint, the team holds a review and retrospective meeting to evaluate progress, identify successes and failures, and plan for the next sprint.
 Release and feedback: When a set of features or user stories is completed, it is released to customers for feedback. This feedback is used to inform future development and iterations.
+https://www.advanceagility.com/advancedscrummaster
+https://www.advanceagility.com/advancedscrummaster
