@@ -1,4 +1,7 @@
 A comparison of SAFe Product Owners and SAFe Agile Product Management
+
+
+
 "SAFe product owners have a more tactical approach to product management, while agile product management takes a more strategic approach." - Melissa Perri
 As organizations continue to adopt agile methodologies, the role of the product owner has become increasingly important for the software development process. Within the context of the Scaled Agile Framework (SAFe), the role of the SAFe Product Owner is essential to the success of the project.
 Comparing SAFe Product Owner and SAFe Agile Product Management
